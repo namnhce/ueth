@@ -1,0 +1,16 @@
+# IDE
+.idea
+.DS_Store
+
+# dependencies
+vendor
+hardhat-boilerplate
+
+# generated csv during the process
+wallets.csv
+output.csv
+blacklist.csv
+
+
+# compiled ueth tool
+ueth
